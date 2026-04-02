@@ -22,7 +22,7 @@ Tech Stack:
 
 * Java
 * Spring Boot
-* Spring Cloud
+* Spring Security
 * MySQL
 * Apache Kafka
 * REST APIs
